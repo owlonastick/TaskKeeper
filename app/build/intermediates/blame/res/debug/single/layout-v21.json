@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

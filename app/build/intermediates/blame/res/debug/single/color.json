@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color/abc_search_url_text.xml"
+    }
+]

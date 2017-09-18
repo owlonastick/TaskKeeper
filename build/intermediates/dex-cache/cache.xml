@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/.android/build-cache/31c4c2503e811a9b3633304d58c8e9134dd6d853/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10417879ecbdde5686471d8e1121aca7f44d8396/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_2f8334f31a0c88651b00ef4c83f3077789488d56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/.android/build-cache/11e9e3c4f644b4720c4059d339562c716dc5eb97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94fbe2f51a8729f8066b0804b61a04c4cd011b96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/.android/build-cache/9d2341eb5dca61b88a03c678c9855cabed17c18d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_845ec6b96860446da5d5c2ea8ef47bd93076f581/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72568b4f3a861a7208bc6a152b58cd55412760af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/.android/build-cache/40f8ca63a8d40ea0716cfab6873b13f693035959/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76b6b1a5ed017198aa6c6bc2e6b38df4ec3a8457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/TaskKeeper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f4860b006ac5d8dcf727076cfb3d5278ea8a4aed">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3dc25ae0310dfabf5fa0e64ffc8453ecd22677cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/.android/build-cache/8d09c1285babb5201a045143750806ee0db7deb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e738f43f729647e2f6f9638c0da9e9b57120004b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/.android/build-cache/aedfe67e394b830576ef5f036cefc02921b2abe0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb652482e32f8877a8b76463f81718aed7eb8936/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/.android/build-cache/3ccac8d51db780f40e2a9e632fb19f88b1b0d049/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47bf8a1e04b0ab6f290146d65460ec5439ff7d85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/TaskKeeper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2073c9917bfa105399eb12cf4114e60c95eb264c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/t20149841/.android/build-cache/782641a0903b3d353b177e4beb6a188e3d681a19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9049eadc06823c954f186757364ca3d477e272e/classes.dex" />
+    </item>
+
+</items>

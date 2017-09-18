@@ -1,0 +1,7 @@
+#Mon Sep 18 17:55:10 CDT 2017
+base.0=/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3dc25ae0310dfabf5fa0e64ffc8453ecd22677cd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2073c9917bfa105399eb12cf4114e60c95eb264c/classes.dex
+base.1=/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2073c9917bfa105399eb12cf4114e60c95eb264c
+file.0=/Users/t20149841/TaskKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3dc25ae0310dfabf5fa0e64ffc8453ecd22677cd/classes.dex

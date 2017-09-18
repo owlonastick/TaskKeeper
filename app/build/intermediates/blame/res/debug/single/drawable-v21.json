@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

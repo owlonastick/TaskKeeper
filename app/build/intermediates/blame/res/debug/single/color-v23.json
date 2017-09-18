@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/t20149841/.android/build-cache/e3cac8a32647e3cf1256f990e95f5e6645bc38ee/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task Keeper</string>
+    <string name="title">What is Your Task?</string>
+    <string name="taskPrompt">Enter your task</string>
+    <string name="buttonLabel">Send Task</string>
+    <string name="currentLabel">Current Task:</string>
+</resources>

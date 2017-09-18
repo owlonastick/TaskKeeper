@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/t20149841/TaskKeeper/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/t20149841/TaskKeeper/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/t20149841/TaskKeeper/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
